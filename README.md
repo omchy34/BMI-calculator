@@ -2,9 +2,9 @@
 
 A sleek and efficient **Body Mass Index (BMI) Calculator** designed with **Vanilla JavaScript**, **HTML5**, and **CSS3**. This tool provides users with a quick and accurate way to calculate their BMI and offers instant feedback on their health category based on the calculated value.
 
-## 📸 Demo
+## 🌐 Live Demo
 
-![BMI Calculator Demo](screenshot.png)
+Check out the live version of the project: [BMI Calculator](https://omchy34.github.io/BMI-calculator/)
 
 ## 🚀 Features
 
